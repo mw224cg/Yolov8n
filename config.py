@@ -1,0 +1,3 @@
+MODEL_PATH = "yolov8n.pt"
+THRESHOLD = 0.5
+PERSON_CLASS_ID = 0
