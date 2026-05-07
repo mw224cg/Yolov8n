@@ -1,8 +1,5 @@
 from camera_webcam import Camera
-from detection_yolo import parse_detections
-from utils import draw
 from cv_handler import CvHandler
-import cv2
 
 
 def main():
